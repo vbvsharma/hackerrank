@@ -1,6 +1,6 @@
 // https://www.hackerrank.com/challenges/apple-and-orange/problem
 
-public class AppleAndOrange {
+public class Solution {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
