@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class DayOfTheProgrammer {
+public class Solution {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
